@@ -41,7 +41,7 @@ export function SocialMediasFooter() {
                             </FooterLinkGroup>
                         </div>
                         <div>
-                            <FooterTitle title="Psychicend"/>
+                            <FooterTitle title="psychicend"/>
                             <FooterLinkGroup col>
                                 <FooterLink href="https://www.catholicgallery.org/prayers/prayers-to-jesus/">Prayers to
                                     Jesus</FooterLink>
